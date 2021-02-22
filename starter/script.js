@@ -3,7 +3,7 @@
 // this is  a Modal Project
 // we are manipulating the css using java script here
 //we first write the query selectors and create variable to hold it
-// we create the variables b/c we gonna use it repetedely in our code and it isw use full
+// we create the variables b/c we gonna use it repetedely in our code and it is use full
 const modal = document.querySelector('.modal');
 const overlay = document.querySelector('.overlay');
 const btnCloseModal = document.querySelector('.close-modal');
