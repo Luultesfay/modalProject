@@ -31,7 +31,7 @@ btnCloseModal.addEventListener('click', function () {
   overlay.classList.add('hidden');
 });
 
-//this part of the code closes the pops up window when we cleck outside of the button and removes the overlay background
+//this part of the code closes the pops up window when we click outside of the button and removes the overlay background
 // wen we click in the overlay area then the window closed
 
 overlay.addEventListener('click', function () {
